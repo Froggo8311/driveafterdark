@@ -7,7 +7,7 @@
   "content_scripts": [
     {
       "matches": [
-        "*://docs.google.com/document/*"
+        "*://docs.google.com/*/*"
       ],
       "js": [
         "word.js"
